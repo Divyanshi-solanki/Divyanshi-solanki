@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Divyanshi-solanki
 - 👀 I’m interested in web devlopment and designing ....
 - 🌱 I’m currently completing c++ and looking forward to DSA.
-- 💞️ I will be uploading the basic c++ program required in my 2nd semester..
+- 💞️ I will be uploading the basic c++ program required in my 1st and 2nd semester..
 - 🖋️ I’m a first year student in btech cse
 
 <!---
