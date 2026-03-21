@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Divyanshi-solanki
-- 👀 I’m interested in web devlopment and designing ....
+- 👀 I’m interested in Data Analytics and designing ....
 - 💞️ Continuing my learning & programming journey on GitHub
-- 🖋️ I’m a Second year student in btech cse
+- 🖋️ I’m a Third year student in btech cse
 
 <!---
 Divyanshi-solanki/Divyanshi-solanki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
